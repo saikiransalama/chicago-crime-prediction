@@ -29,7 +29,7 @@ This capstone project focuses on analyzing COVID-19 data to understand patterns,
 **Note**: The large dataset files are excluded from this repository due to their size. You'll need to obtain the data files separately or from the original data source.
 
 ### Analysis Notebooks
-- **`Capstone.ipynb`**: Main analysis notebook containing the core research methodology and findings
+- **`Capstone_Clean.ipynb`**: Main analysis notebook with code and markdown cells (clean version without outputs)
 - **`Untitled-1.ipynb`**: Additional analysis and exploratory work
 
 ### Research Documents
@@ -52,7 +52,7 @@ This capstone project focuses on analyzing COVID-19 data to understand patterns,
    ```
 
 3. **Open the notebooks**:
-   - Start with `Capstone.ipynb` for the main analysis
+   - Start with `Capstone_Clean.ipynb` for the main analysis (clean version)
    - Review `Untitled-1.ipynb` for additional insights
 
 4. **Read the research papers**:
