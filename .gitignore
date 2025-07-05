@@ -167,6 +167,13 @@ tmp/
 *.backup
 *~
 
+# Research documents (excluded from repository)
+Literature Review.pdf
+Literature Review.docx
+Draft 1.docx
+Concept Paper.pdf
+Concept Paper.docx
+
 # OS generated files
 .DS_Store
 .DS_Store?
