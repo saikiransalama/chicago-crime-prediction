@@ -67,8 +67,8 @@ This comprehensive research project analyzes crime trends in Chicago from 2001 t
 ## 💻 Technical Implementation
 
 ### Analysis Notebooks
-- **`Capstone_Clean.ipynb`**: Main analysis with comprehensive EDA, statistical testing, and machine learning models
-- **`Untitled-1.ipynb`**: Additional exploratory analysis and model refinement
+- **`Codebase_1.ipynb`**: Main analysis with comprehensive EDA, statistical testing, and machine learning models
+- **`Codebase_2.ipynb`**: Additional exploratory analysis and model refinement
 
 ### Key Libraries Used
 - **Data Manipulation**: pandas, numpy
@@ -85,9 +85,9 @@ This comprehensive research project analyzes crime trends in Chicago from 2001 t
 ## 📋 Project Structure
 
 ```
-├── Capstone_Clean.ipynb          # Main analysis notebook (clean version)
-├── Untitled-1.ipynb              # Additional analysis and model refinement
-├── Final Revised Paper.pdf       # Complete research findings and conclusions
+├── Codebase_1.ipynb              # Main analysis notebook (clean version)
+├── Codebase_2.ipynb              # Additional analysis and model refinement
+├── Research Paper.pdf            # Complete research findings and conclusions
 └── README.md                    # This file
 ```
 
@@ -133,9 +133,9 @@ This comprehensive research project analyzes crime trends in Chicago from 2001 t
    ```
 
 3. **Explore the analysis**:
-   - Start with `Capstone_Clean.ipynb` for the main analysis
-   - Review `Untitled-1.ipynb` for additional insights
-   - Read `Final Revised Paper.pdf` for complete findings
+   - Start with `Codebase_1.ipynb` for the main analysis
+   - Review `Codebase_2.ipynb` for additional insights
+   - Read `Research Paper.pdf` for complete findings
 
 4. **Data Requirements**:
    - The analysis requires the Chicago crime dataset (2001-2025)
