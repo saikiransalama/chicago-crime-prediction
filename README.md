@@ -87,9 +87,6 @@ This comprehensive research project analyzes crime trends in Chicago from 2001 t
 ```
 ├── Capstone_Clean.ipynb          # Main analysis notebook (clean version)
 ├── Untitled-1.ipynb              # Additional analysis and model refinement
-├── Concept Paper.pdf             # Initial research concept and methodology
-├── Literature Review.pdf         # Comprehensive literature review
-├── Draft 1.docx                 # First draft of research paper
 ├── Final Revised Paper.pdf       # Complete research findings and conclusions
 └── README.md                    # This file
 ```
