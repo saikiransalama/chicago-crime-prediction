@@ -123,8 +123,8 @@ This comprehensive research project analyzes crime trends in Chicago from 2001 t
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/saikiransalama/covid19-research-capstone.git
-   cd covid19-research-capstone
+   git clone https://github.com/saikiransalama/chicago-crime-prediction
+   cd chicago-crime-prediction
    ```
 
 2. **Install dependencies**:
@@ -150,17 +150,5 @@ This research demonstrates the power of data-driven crime analysis in informing 
 - **Predictive Modeling**: Successful implementation of machine learning for arrest prediction
 - **Policy Recommendations**: Data-driven insights for resource allocation and prevention strategies
 - **Methodological Framework**: Comprehensive approach combining EDA, statistical analysis, and ML
-
-## 👨‍💻 Author
-
-**Saikiran Reddy Salama**
-
-This research represents a comprehensive capstone project demonstrating advanced data analytics, statistical modeling, and machine learning skills applied to real-world law enforcement challenges.
-
-## 📄 License
-
-This project is for research and educational purposes. Please cite appropriately if using findings in academic or professional work.
-
----
-
+  
 **Note**: This repository contains the analysis code and documentation. The large dataset files (Chicago crime data) are excluded due to size constraints but can be obtained from the Chicago Open Data Portal. 
